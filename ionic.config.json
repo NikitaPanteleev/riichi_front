@@ -1,6 +1,6 @@
 {
   "name": "riichi_front",
-  "app_id": "",
+  "app_id": "e4657c85",
   "type": "ionic-angular",
   "integrations": {
     "cordova": {}
